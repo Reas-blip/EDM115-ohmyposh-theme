@@ -30,7 +30,7 @@
         {
           "type": "os",
           "style": "powerline",
-          "powerline_symbol": "\ue0b0",
+          "powerline_symbol": "\ue62a",
           "template": "{{ .Icon }}  ",
           "background": "#282a36",
           "foreground": "#f8f8f2"
